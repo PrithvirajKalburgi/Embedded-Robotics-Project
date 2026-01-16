@@ -1,2 +1,2 @@
 # Embedded-Robotics-Project
-The main goal behind this project is to make a functional robot hooked to the Arduino circuit board. The board is programmed with various different Robot functions such as moving forwards, backwards, 360 turns and also has a compass attached to it which reads directions. There is also an ISP connected to the board which allows the user to control the robot through a web page. 
+Designed and implemented a robotic system with a functional Lego-based frame controlled by an ESP micro controller. The system was connected via an ISP-enabled interface, allowing an user to control the robot movements through a web interface.
